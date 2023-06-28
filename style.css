@@ -24,3 +24,13 @@ img{
     display:flex;
     justify-content: center;
 }
+
+.rounded-left {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.rounded-left2 {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
